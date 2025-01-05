@@ -6,5 +6,7 @@ int main() {
 
     Date sanghoon;
     sanghoon.ShowDate();
+    std::cout<<"hello hello"<<std::endl;
+
     return 0;
 }
